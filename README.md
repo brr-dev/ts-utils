@@ -1,3 +1,3 @@
-# @brr-dev/typescript-package-template
+# @brr-dev/ts-utils
 
-A template repo for bundling TypeScript packages.
+A collection of helpful utility types for TypeScript.
